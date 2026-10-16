@@ -1,0 +1,6 @@
+{
+  "name": "ServerDLE",
+  "description": "Jogo educativo gamificado de Servidores de Banco de Dados e Administração de Redes de Computadores",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
